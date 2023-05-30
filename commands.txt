@@ -1,0 +1,30 @@
+part 1
+
+	1 
+		a. cd galaxy-far-far-away 
+		b. mkdir death_star, 
+		c. cd death_star
+		d. touch darth_vader.txt princess_leia.txt storm_trooper.txt
+
+	2 
+		a. cd ..  
+		b. mkdir tatooine
+ 		c. cd tatooine
+		d. touch luke.txt ben_kenobi.txt
+	3. 
+		a. mkdir millenium_falcon
+		b. cd millenium_falcon
+		c. touch han_solo.txt, chewbaca.txt
+
+		
+part 2 
+
+	4.	
+		a. cd ..	
+		b. mv ben_kenobi.txt obi_van.txt
+
+part 3
+
+	5. 
+		a. cp ../death_star/storm_trooper.txt ./
+
